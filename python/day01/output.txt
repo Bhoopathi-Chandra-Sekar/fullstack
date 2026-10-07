@@ -1,0 +1,3 @@
+I am learning Full Stack Development.
+Python is my first programming language.
+I will become a Full Stack Developer

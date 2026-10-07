@@ -1,0 +1,9 @@
+Name: Bhoopathi
+Salary: 25000
+----------------
+Name: Rahul
+Salary: 18000
+----------------
+Name: Priya
+Salary: 35000
+----------------
