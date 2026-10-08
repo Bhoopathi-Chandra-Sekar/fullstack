@@ -78,3 +78,5 @@ try:
     show_employee(employee)
 except ValueError:
     print("Please enter a valid salary")
+
+# Employee Management System - Day 18 complete
